@@ -145,4 +145,3 @@ var e,t=arguments[3];!function(t,n){"object"==typeof exports&&"undefined"!=typeo
 },{"vue":"QPfz","./components/ZoneGrid":"XzEa","./js/eskom-data":"xJki","moment":"a2Bw"}],"Focm":[function(require,module,exports) {
 "use strict";var e=t(require("vue")),u=t(require("buefy")),r=t(require("./App"));function t(e){return e&&e.__esModule?e:{default:e}}e.default.use(u.default),e.default.config.productionTip=!1,new e.default({el:"#app",render:function(e){return e(r.default)}});
 },{"vue":"QPfz","buefy":"tHsy","./App":"Js2s"}]},{},["Focm"], null)
-//# sourceMappingURL=/src.c929f2fa.js.map
